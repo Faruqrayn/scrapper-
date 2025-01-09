@@ -3,9 +3,21 @@
 # python -m pip install beautifulsoup4
 # => parse html
 
+# install git
+# create repository
+
+
+# go to git bash (it is located in terminal)
 # git config --global user.name "Faruqrayn"
 # git config --global user.email "mdfarukrayn72562@gmail.com" 
 
+
+# git init
+#  git status => if you want to check what are the status of files
+# gir diff => if you want to check what are the changes
+# git add .
+#  git commit -m "your message"
+# copy paste git code from github and paste it into the terminal 
 
 import requests
 from bs4 import BeautifulSoup    # bs4 => library ,  beautifulsoup => class
