@@ -2,7 +2,9 @@
 # => get data from web (html, json, xml)
 # python -m pip install beautifulsoup4
 # => parse html
-\
+
+# git config --global user.name "Faruqrayn"
+# git config --global user.email "mdfarukrayn72562@gmail.com" 
 
 
 import requests
