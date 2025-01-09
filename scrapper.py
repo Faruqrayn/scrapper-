@@ -18,6 +18,9 @@
 # git add .
 #  git commit -m "your message"
 # copy paste git code from github and paste it into the terminal 
+# git push origin => to pass the changed code into the git 
+
+
 
 import requests
 from bs4 import BeautifulSoup    # bs4 => library ,  beautifulsoup => class
